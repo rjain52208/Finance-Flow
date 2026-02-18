@@ -1,0 +1,32 @@
+date,amount,type,description,category
+2024-10-01,3500.00,income,Payroll Deposit - October,Income
+2024-10-01,50.00,expense,Starbucks Coffee Downtown,Dining
+2024-10-02,120.50,expense,Whole Foods Market Groceries,Groceries
+2024-10-03,45.00,expense,Shell Gas Station,Transportation
+2024-10-04,15.99,expense,Netflix Subscription,Entertainment
+2024-10-05,89.99,expense,Nike Running Shoes,Shopping
+2024-10-06,250.00,expense,Rent Payment Utilities,Utilities
+2024-10-07,35.00,expense,Chipotle Mexican Grill,Dining
+2024-10-08,200.00,expense,Dentist Appointment,Healthcare
+2024-10-09,75.00,expense,Target Shopping,Shopping
+2024-10-10,500.00,investment,401k Contribution,Investment
+2024-10-11,28.50,expense,Uber Ride Downtown,Transportation
+2024-10-12,95.00,expense,Gym Membership Monthly,Fitness
+2024-10-13,42.00,expense,Amazon Purchase,Shopping
+2024-10-14,18.00,expense,Panera Bread Lunch,Dining
+2024-10-15,150.00,income,Freelance Project Payment,Income
+2024-10-16,65.00,expense,Electric Company Bill,Utilities
+2024-10-17,30.00,expense,CVS Pharmacy Prescription,Healthcare
+2024-10-18,140.00,expense,Trader Joes Weekly Shopping,Groceries
+2024-10-19,22.00,expense,Movie Theater Tickets,Entertainment
+2024-10-20,85.00,expense,Home Depot Hardware,Shopping
+2024-10-21,55.00,expense,Chevron Gas Station,Transportation
+2024-10-22,12.99,expense,Spotify Premium,Subscriptions
+2024-10-23,38.00,expense,Red Lobster Dinner,Dining
+2024-10-24,100.00,expense,Health Insurance Premium,Insurance
+2024-10-25,45.00,expense,Hair Salon Haircut,Personal Care
+2024-10-26,200.00,investment,Stock Purchase,Investment
+2024-10-27,68.00,expense,Safeway Store Groceries,Groceries
+2024-10-28,90.00,expense,Internet Service Bill,Utilities
+2024-10-29,25.00,expense,Dominos Pizza Delivery,Dining
+2024-10-30,180.00,expense,Car Insurance Payment,Insurance

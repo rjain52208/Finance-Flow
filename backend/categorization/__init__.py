@@ -1,0 +1,1 @@
+# Categorization app initialization
